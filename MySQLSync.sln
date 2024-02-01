@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLSync", "MySQLSync.csproj", "{7F32EC6E-8DB4-4333-B39F-3CFFCF96D96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F32EC6E-8DB4-4333-B39F-3CFFCF96D96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F32EC6E-8DB4-4333-B39F-3CFFCF96D96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F32EC6E-8DB4-4333-B39F-3CFFCF96D96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F32EC6E-8DB4-4333-B39F-3CFFCF96D96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A131A672-2824-4588-88AC-C0A5D9C40942}
+	EndGlobalSection
+EndGlobal
