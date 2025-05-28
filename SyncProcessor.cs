@@ -118,7 +118,7 @@ public class SyncProcessor
 
     #endregion
 
-    #region SQL Server query
+    #region MySQL query
 
     void truncateDataTableInMySQL(string connectionString, string table)
     {
